@@ -19,7 +19,7 @@
 - #### ***_Lyrics Generator_*** 
 - #### ***_Music cutter_*** 
 
-## *** Have a Look On BXM ***
+## Have a Look On BXM 
 
 
 ![Screenshot (767)](https://user-images.githubusercontent.com/80738479/148525131-a7b165f8-be8a-40b6-b839-a1879641c0b7.png)
