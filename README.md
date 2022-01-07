@@ -1,7 +1,7 @@
 # BeatsXmatch
 ![bxm](https://user-images.githubusercontent.com/80771166/148524008-42d08bcb-d7aa-449a-898f-0878b4a32723.png)
 
-## <p align="center"> ***_Introducing My New Project Generation Music Player_*** </p>
+
 ### <p align="center">💡 ***_This is a Multi-Functioning Music Player*** 💡</p>
 
 ### ➡️ ***_<u>Features are:-</u>_***
